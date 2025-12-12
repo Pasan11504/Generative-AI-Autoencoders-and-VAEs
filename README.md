@@ -64,7 +64,7 @@ The trained convolutional autoencoder successfully reconstructed MNIST digits fr
 - **Consistent Performance**: Uniform reconstruction quality across all digit classes (0-9)
 
 
-![Figure 1: Top row shows original MNIST test images, bottom row shows reconstructed images. The autoencoder captures essential features with minimal loss.](image.png)
+![Figure 1: Top row shows original MNIST test images, bottom row shows reconstructed images. The autoencoder captures essential features with minimal loss.](AE.png)
 
 ### 2.2 VAE Reconstructions
 
